@@ -1,4 +1,6 @@
 # Hybrid Quantum-Classical Burgers' Equation Solver
+## WOMANIUM & WISER 2025 Quantum Projects
+
 
 ## Overview
 The Hybrid Quantum-Classical Burgers' Equation Solver is a computational project that leverages both quantum and classical computing techniques to solve the Burgers' equation, a fundamental partial differential equation in fluid dynamics. This project aims to explore the potential of quantum computing in simulating complex physical systems and to compare its performance against classical methods.
