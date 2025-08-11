@@ -1,0 +1,4 @@
+Qubits | Grid Size | Depth | 2Q Gates | T-count | Mitigation
+     2 |         4 |     5 |        1 |       0 | ZNE
+     3 |         8 |     7 |        2 |       0 | ZNE+CDR
+     4 |        16 |     9 |        3 |       0 | ZNE+CDR
