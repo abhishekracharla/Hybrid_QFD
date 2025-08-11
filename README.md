@@ -1,5 +1,7 @@
 # Hybrid Quantum-Classical Burgers' Equation Solver
 ## WOMANIUM & WISER 2025 Quantum Projects
+Full Name: Abhishek Racharla
+Womanium & WISER Program Enrollment ID: gst-6n0BRXAtkLWM3im
 
 
 ## Overview
